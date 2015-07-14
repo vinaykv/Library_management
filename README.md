@@ -7,3 +7,8 @@ If the user wants to login as administrator. Admin must login with his/her crede
 but the librarian can login without any password. Librarian will have less accessibility 
 to the database when compared to the admin.
 
+
+
+This is an open software program without any warranty
+and free to destribute.
+
